@@ -1,1 +1,1 @@
-/ https://brzenweiss.github.io/
+https://brzenweiss.github.io/
